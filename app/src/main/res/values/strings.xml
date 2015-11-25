@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GetReactive</string>
+    <string name="action_search">Search</string>
+    <string name="the_android_way">The Android Way</string>
+    <string name="the_rxbeginner_way">The RxBeginner Way</string>
+    <string name="the_rxexpert_way">The RxExpert Way</string>
+    <string name="solutions_info">Solutions from the talk \'Get Reactive\'</string>
+</resources>
